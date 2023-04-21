@@ -11,4 +11,4 @@ void CheckingNumber(string number){
 if (number!.Length == 5){
   CheckingNumber(number);
 }
-//else Console.WriteLine($"Введи правильное число");
+else Console.WriteLine($"Введите правильное число");
